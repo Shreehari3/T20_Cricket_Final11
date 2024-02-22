@@ -1,0 +1,700 @@
+Match,TeamInnings,Name,Runs,Balls,Fours,Sixes,Strike_Rate,pos,Out_or_Notout,MatchId
+Namibia Vs Sri Lanka,Namibia,Michael van Lingen ,3,6,0,0,50.00,1,out,1823
+Namibia Vs Sri Lanka,Namibia,Divan la Cock ,9,9,1,0,100.00,2,out,1823
+Namibia Vs Sri Lanka,Namibia,Jan Nicol Loftie Eaton ,20,12,1,2,166.66,3,out,1823
+Namibia Vs Sri Lanka,Namibia,Stephan Baard ,26,24,2,0,108.33,4,out,1823
+Namibia Vs Sri Lanka,Namibia,Gerhard Erasmus ,20,24,0,0,83.33,5,out,1823
+Namibia Vs Sri Lanka,Namibia,Jan Frylinck ,44,28,4,0,157.14,6,out,1823
+Namibia Vs Sri Lanka,Namibia,David Wiese ,0,1,0,0,0.00,7,out,1823
+Namibia Vs Sri Lanka,Namibia,JJ Smit ,31,16,2,2,193.75,8,not out ,1823
+Namibia Vs Sri Lanka,Sri Lanka,Pathum Nissanka ,9,10,1,0,90.00,1,out,1823
+Namibia Vs Sri Lanka,Sri Lanka,Kusal Mendis ,6,6,0,0,100.00,2,out,1823
+Namibia Vs Sri Lanka,Sri Lanka,Dhananjaya de Silva ,12,11,1,0,109.09,3,out,1823
+Namibia Vs Sri Lanka,Sri Lanka,Danushka Gunathilaka ,0,1,0,0,0.00,4,out,1823
+Namibia Vs Sri Lanka,Sri Lanka,Bhanuka Rajapaksa ,20,21,2,0,95.23,5,out,1823
+Namibia Vs Sri Lanka,Sri Lanka,Dasun Shanaka ,29,23,2,1,126.08,6,out,1823
+Namibia Vs Sri Lanka,Sri Lanka,Wanindu Hasaranga de Silva ,4,8,0,0,50.00,7,out,1823
+Namibia Vs Sri Lanka,Sri Lanka,Chamika Karunaratne ,5,8,0,0,62.50,8,out,1823
+Namibia Vs Sri Lanka,Sri Lanka,Pramod Madushan ,0,0,0,0,-,9,out,1823
+Namibia Vs Sri Lanka,Sri Lanka,Dushmantha Chameera ,8,15,0,0,53.33,10,out,1823
+Namibia Vs Sri Lanka,Sri Lanka,Maheesh Theekshana ,11,11,0,1,100.00,11,not out ,1823
+U.A.E. Vs Netherlands,U.A.E.,Chirag Suri ,12,20,1,0,60.00,1,out,1825
+U.A.E. Vs Netherlands,U.A.E.,Muhammad Waseem ,41,47,1,2,87.23,2,out,1825
+U.A.E. Vs Netherlands,U.A.E.,Kashif Daud ,15,14,0,1,107.14,3,out,1825
+U.A.E. Vs Netherlands,U.A.E.,Vriitya Aravind ,18,21,0,0,85.71,4,out,1825
+U.A.E. Vs Netherlands,U.A.E.,Zawar Farid ,2,4,0,0,50.00,5,out,1825
+U.A.E. Vs Netherlands,U.A.E.,Basil Hameed ,4,4,1,0,100.00,6,out,1825
+U.A.E. Vs Netherlands,U.A.E.,Chundangapoyil Rizwan ,1,2,0,0,50.00,7,out,1825
+U.A.E. Vs Netherlands,U.A.E.,Aayan Afzal Khan ,5,7,0,0,71.42,8,out,1825
+U.A.E. Vs Netherlands,U.A.E.,Karthik Meiyappan ,0,0,0,0,-,9,not out ,1825
+U.A.E. Vs Netherlands,U.A.E.,Junaid Siddique ,0,1,0,0,0.00,10,not out ,1825
+U.A.E. Vs Netherlands,Netherlands,Vikramjit Singh ,10,7,2,0,142.85,1,out,1825
+U.A.E. Vs Netherlands,Netherlands,Max O Dowd ,23,18,3,1,127.77,2,out,1825
+U.A.E. Vs Netherlands,Netherlands,Bas de Leede ,14,18,1,0,77.77,3,out,1825
+U.A.E. Vs Netherlands,Netherlands,Colin Ackermann ,17,19,1,0,89.47,4,out,1825
+U.A.E. Vs Netherlands,Netherlands,Tom Cooper ,8,16,0,0,50.00,5,out,1825
+U.A.E. Vs Netherlands,Netherlands,Scott Edwards ,16,19,0,0,84.21,6,not out ,1825
+U.A.E. Vs Netherlands,Netherlands,Roelof van der Merwe ,0,2,0,0,0.00,7,out,1825
+U.A.E. Vs Netherlands,Netherlands,Tim Pringle ,15,16,0,0,93.75,8,out,1825
+U.A.E. Vs Netherlands,Netherlands,Logan van Beek ,4,4,0,0,100.00,9,not out ,1825
+Scotland Vs West Indies,Scotland,George Munsey ,66,53,9,0,124.52,1,not out ,1826
+Scotland Vs West Indies,Scotland,Michael Jones ,20,17,3,0,117.64,2,out,1826
+Scotland Vs West Indies,Scotland,Matthew Cross ,3,5,0,0,60.00,3,out,1826
+Scotland Vs West Indies,Scotland,Richie Berrington ,16,14,0,1,114.28,4,out,1826
+Scotland Vs West Indies,Scotland,Calum MacLeod ,23,14,4,0,164.28,5,out,1826
+Scotland Vs West Indies,Scotland,Michael Leask ,4,6,0,0,66.66,6,out,1826
+Scotland Vs West Indies,Scotland,Chris Greaves ,16,11,2,0,145.45,7,not out ,1826
+Scotland Vs West Indies,West Indies,Kyle Mayers ,20,13,3,1,153.84,1,out,1826
+Scotland Vs West Indies,West Indies,Evin Lewis ,14,13,1,1,107.69,2,out,1826
+Scotland Vs West Indies,West Indies,Brandon King ,17,15,3,0,113.33,3,out,1826
+Scotland Vs West Indies,West Indies,Nicholas Pooran ,5,9,0,0,55.55,4,out,1826
+Scotland Vs West Indies,West Indies,Shamarh Brooks ,4,9,0,0,44.44,5,out,1826
+Scotland Vs West Indies,West Indies,Rovman Powell ,5,6,0,0,83.33,6,out,1826
+Scotland Vs West Indies,West Indies,Jason Holder ,38,33,4,1,115.15,7,out,1826
+Scotland Vs West Indies,West Indies,Akeal Hosein ,1,1,0,0,100.00,8,out,1826
+Scotland Vs West Indies,West Indies,Alzarri Joseph ,0,1,0,0,0.00,9,out,1826
+Scotland Vs West Indies,West Indies,Odean Smith ,5,8,0,0,62.50,10,out,1826
+Scotland Vs West Indies,West Indies,Obed McCoy ,2,3,0,0,66.66,11,not out ,1826
+Zimbabwe Vs Ireland,Zimbabwe,Regis Chakabva ,0,2,0,0,0.00,1,out,1828
+Zimbabwe Vs Ireland,Zimbabwe,Craig Ervine ,9,12,1,0,75.00,2,out,1828
+Zimbabwe Vs Ireland,Zimbabwe,Wessly Madhevere ,22,19,4,0,115.78,3,out,1828
+Zimbabwe Vs Ireland,Zimbabwe,Sean Williams ,12,11,0,1,109.09,4,out,1828
+Zimbabwe Vs Ireland,Zimbabwe,Sikandar Raza ,82,48,5,5,170.83,5,out,1828
+Zimbabwe Vs Ireland,Zimbabwe,Milton Shumba ,16,14,1,0,114.28,6,out,1828
+Zimbabwe Vs Ireland,Zimbabwe,Ryan Burl ,1,4,0,0,25.00,7,out,1828
+Zimbabwe Vs Ireland,Zimbabwe,Luke Jongwe ,20,10,3,0,200.00,8,not out ,1828
+Zimbabwe Vs Ireland,Ireland,Paul Stirling ,0,2,0,0,0.00,1,out,1828
+Zimbabwe Vs Ireland,Ireland,Andy Balbirnie ,3,4,0,0,75.00,2,out,1828
+Zimbabwe Vs Ireland,Ireland,Lorcan Tucker ,11,11,2,0,100.00,3,out,1828
+Zimbabwe Vs Ireland,Ireland,Harry Tector ,1,4,0,0,25.00,4,out,1828
+Zimbabwe Vs Ireland,Ireland,Curtis Campher ,27,22,1,0,122.72,5,out,1828
+Zimbabwe Vs Ireland,Ireland,George Dockrell ,24,20,3,0,120.00,6,out,1828
+Zimbabwe Vs Ireland,Ireland,Gareth Delany ,24,20,1,1,120.00,7,out,1828
+Zimbabwe Vs Ireland,Ireland,Mark Adair ,9,10,0,1,90.00,8,out,1828
+Zimbabwe Vs Ireland,Ireland,Simi Singh ,0,1,0,0,0.00,9,out,1828
+Zimbabwe Vs Ireland,Ireland,Barry McCarthy ,22,16,1,2,137.50,10,not out ,1828
+Zimbabwe Vs Ireland,Ireland,Josh Little ,7,11,1,0,63.63,11,not out ,1828
+Namibia Vs Netherlands,Namibia,Michael van Lingen ,20,19,3,0,105.26,1,out,1830
+Namibia Vs Netherlands,Namibia,Divan la Cock ,0,2,0,0,0.00,2,out,1830
+Namibia Vs Netherlands,Namibia,Stephan Baard ,19,22,0,0,86.36,3,out,1830
+Namibia Vs Netherlands,Namibia,Jan Nicol Loftie Eaton ,0,2,0,0,0.00,4,out,1830
+Namibia Vs Netherlands,Namibia,Jan Frylinck ,43,48,1,1,89.58,5,out,1830
+Namibia Vs Netherlands,Namibia,Gerhard Erasmus ,16,18,0,0,88.88,6,out,1830
+Namibia Vs Netherlands,Namibia,David Wiese ,11,5,1,0,220.00,7,not out ,1830
+Namibia Vs Netherlands,Namibia,JJ Smit ,5,4,1,0,125.00,8,not out ,1830
+Namibia Vs Netherlands,Netherlands,Max O Dowd ,35,35,1,1,100.00,1,out,1830
+Namibia Vs Netherlands,Netherlands,Vikramjit Singh ,39,31,3,2,125.80,2,out,1830
+Namibia Vs Netherlands,Netherlands,Bas de Leede ,30,30,2,0,100.00,3,not out ,1830
+Namibia Vs Netherlands,Netherlands,Tom Cooper ,6,6,1,0,100.00,4,out,1830
+Namibia Vs Netherlands,Netherlands,Colin Ackermann ,0,2,0,0,0.00,5,out,1830
+Namibia Vs Netherlands,Netherlands,Scott Edwards ,1,5,0,0,20.00,6,out,1830
+Namibia Vs Netherlands,Netherlands,Tim Pringle ,8,9,0,0,88.88,7,not out ,1830
+Sri Lanka Vs U.A.E.,Sri Lanka,Pathum Nissanka ,74,60,6,2,123.33,1,out,1832
+Sri Lanka Vs U.A.E.,Sri Lanka,Kusal Mendis ,18,13,2,0,138.46,2,out,1832
+Sri Lanka Vs U.A.E.,Sri Lanka,Dhananjaya de Silva ,33,21,3,1,157.14,3,out,1832
+Sri Lanka Vs U.A.E.,Sri Lanka,Bhanuka Rajapaksa ,5,8,0,0,62.50,4,out,1832
+Sri Lanka Vs U.A.E.,Sri Lanka,Charith Asalanka ,0,1,0,0,0.00,5,out,1832
+Sri Lanka Vs U.A.E.,Sri Lanka,Dasun Shanaka ,0,1,0,0,0.00,6,out,1832
+Sri Lanka Vs U.A.E.,Sri Lanka,Wanindu Hasaranga de Silva ,2,3,0,0,66.66,7,out,1832
+Sri Lanka Vs U.A.E.,Sri Lanka,Chamika Karunaratne ,8,11,1,0,72.72,8,out,1832
+Sri Lanka Vs U.A.E.,Sri Lanka,Pramod Madushan ,1,1,0,0,100.00,9,not out ,1832
+Sri Lanka Vs U.A.E.,Sri Lanka,Dushmantha Chameera ,1,1,0,0,100.00,10,not out ,1832
+Sri Lanka Vs U.A.E.,U.A.E.,Muhammad Waseem ,2,4,0,0,50.00,1,out,1832
+Sri Lanka Vs U.A.E.,U.A.E.,Chirag Suri ,14,19,3,0,73.68,2,out,1832
+Sri Lanka Vs U.A.E.,U.A.E.,Aryan Lakra ,1,3,0,0,33.33,3,out,1832
+Sri Lanka Vs U.A.E.,U.A.E.,Chundangapoyil Rizwan ,1,3,0,0,33.33,4,out,1832
+Sri Lanka Vs U.A.E.,U.A.E.,Vriitya Aravind ,9,18,1,0,50.00,5,out,1832
+Sri Lanka Vs U.A.E.,U.A.E.,Basil Hameed ,2,6,0,0,33.33,6,out,1832
+Sri Lanka Vs U.A.E.,U.A.E.,Aayan Afzal Khan ,19,21,1,0,90.47,7,out,1832
+Sri Lanka Vs U.A.E.,U.A.E.,Kashif Daud ,0,4,0,0,0.00,8,out,1832
+Sri Lanka Vs U.A.E.,U.A.E.,Karthik Meiyappan ,4,8,0,0,50.00,9,out,1832
+Sri Lanka Vs U.A.E.,U.A.E.,Junaid Siddique ,18,16,1,1,112.50,10,out,1832
+Sri Lanka Vs U.A.E.,U.A.E.,Zahoor Khan ,1,1,0,0,100.00,11,not out ,1832
+Scotland Vs Ireland,Scotland,George Munsey ,1,2,0,0,50.00,1,out,1833
+Scotland Vs Ireland,Scotland,Michael Jones ,86,55,6,4,156.36,2,out,1833
+Scotland Vs Ireland,Scotland,Matthew Cross ,28,21,5,0,133.33,3,out,1833
+Scotland Vs Ireland,Scotland,Richie Berrington ,37,27,3,1,137.03,4,out,1833
+Scotland Vs Ireland,Scotland,Michael Leask ,17,13,2,0,130.76,5,not out ,1833
+Scotland Vs Ireland,Scotland,Calum MacLeod ,0,3,0,0,0.00,6,out,1833
+Scotland Vs Ireland,Ireland,Paul Stirling ,8,10,1,0,80.00,1,out,1833
+Scotland Vs Ireland,Ireland,Andy Balbirnie ,14,12,2,0,116.66,2,out,1833
+Scotland Vs Ireland,Ireland,Lorcan Tucker ,20,17,2,0,117.64,3,out,1833
+Scotland Vs Ireland,Ireland,Harry Tector ,14,16,1,0,87.50,4,out,1833
+Scotland Vs Ireland,Ireland,Curtis Campher ,72,32,7,2,225.00,5,not out ,1833
+Scotland Vs Ireland,Ireland,George Dockrell ,39,27,4,1,144.44,6,not out ,1833
+West Indies Vs Zimbabwe,West Indies,Kyle Mayers ,13,12,2,0,108.33,1,out,1834
+West Indies Vs Zimbabwe,West Indies,Johnson Charles ,45,36,3,2,125.00,2,out,1834
+West Indies Vs Zimbabwe,West Indies,Evin Lewis ,15,18,1,0,83.33,3,out,1834
+West Indies Vs Zimbabwe,West Indies,Nicholas Pooran ,7,9,0,0,77.77,4,out,1834
+West Indies Vs Zimbabwe,West Indies,Rovman Powell ,28,21,1,2,133.33,5,out,1834
+West Indies Vs Zimbabwe,West Indies,Shamarh Brooks ,0,3,0,0,0.00,6,out,1834
+West Indies Vs Zimbabwe,West Indies,Jason Holder ,4,3,0,0,133.33,7,out,1834
+West Indies Vs Zimbabwe,West Indies,Akeal Hosein ,23,18,2,0,127.77,8,not out ,1834
+West Indies Vs Zimbabwe,West Indies,Odean Smith ,1,2,0,0,50.00,9,not out ,1834
+West Indies Vs Zimbabwe,Zimbabwe,Wessly Madhevere ,27,19,3,1,142.10,1,out,1834
+West Indies Vs Zimbabwe,Zimbabwe,Regis Chakabva ,13,9,3,0,144.44,2,out,1834
+West Indies Vs Zimbabwe,Zimbabwe,Tony Munyonga ,2,6,0,0,33.33,3,out,1834
+West Indies Vs Zimbabwe,Zimbabwe,Sean Williams ,1,2,0,0,50.00,4,out,1834
+West Indies Vs Zimbabwe,Zimbabwe,Sikandar Raza ,14,8,1,1,175.00,5,out,1834
+West Indies Vs Zimbabwe,Zimbabwe,Milton Shumba ,2,9,0,0,22.22,6,out,1834
+West Indies Vs Zimbabwe,Zimbabwe,Ryan Burl ,17,19,3,0,89.47,7,out,1834
+West Indies Vs Zimbabwe,Zimbabwe,Luke Jongwe ,29,22,3,1,131.81,8,out,1834
+West Indies Vs Zimbabwe,Zimbabwe,Richard Ngarava ,2,6,0,0,33.33,9,out,1834
+West Indies Vs Zimbabwe,Zimbabwe,Tendai Chatara ,3,8,0,0,37.50,10,out,1834
+West Indies Vs Zimbabwe,Zimbabwe,Blessing Muzarabani ,1,4,0,0,25.00,11,not out ,1834
+Sri Lanka Vs Netherlands,Sri Lanka,Pathum Nissanka ,14,21,0,1,66.66,1,out,1835
+Sri Lanka Vs Netherlands,Sri Lanka,Kusal Mendis ,79,44,5,5,179.54,2,out,1835
+Sri Lanka Vs Netherlands,Sri Lanka,Dhananjaya de Silva ,0,1,0,0,0.00,3,out,1835
+Sri Lanka Vs Netherlands,Sri Lanka,Charith Asalanka ,31,30,3,0,103.33,4,out,1835
+Sri Lanka Vs Netherlands,Sri Lanka,Bhanuka Rajapaksa ,19,13,2,0,146.15,5,out,1835
+Sri Lanka Vs Netherlands,Sri Lanka,Dasun Shanaka ,8,5,0,1,160.00,6,out,1835
+Sri Lanka Vs Netherlands,Sri Lanka,Wanindu Hasaranga de Silva ,5,4,0,0,125.00,7,not out ,1835
+Sri Lanka Vs Netherlands,Sri Lanka,Chamika Karunaratne ,2,2,0,0,100.00,8,not out ,1835
+Sri Lanka Vs Netherlands,Netherlands,Max O Dowd ,71,53,6,3,133.96,1,not out ,1835
+Sri Lanka Vs Netherlands,Netherlands,Vikramjit Singh ,7,14,0,0,50.00,2,out,1835
+Sri Lanka Vs Netherlands,Netherlands,Bas de Leede ,14,10,1,1,140.00,3,out,1835
+Sri Lanka Vs Netherlands,Netherlands,Colin Ackermann ,0,1,0,0,0.00,4,out,1835
+Sri Lanka Vs Netherlands,Netherlands,Tom Cooper ,16,19,2,0,84.21,5,out,1835
+Sri Lanka Vs Netherlands,Netherlands,Scott Edwards ,21,15,3,0,140.00,6,out,1835
+Sri Lanka Vs Netherlands,Netherlands,Tim Pringle ,2,4,0,0,50.00,7,out,1835
+Sri Lanka Vs Netherlands,Netherlands,Timm van der Gugten ,0,1,0,0,0.00,8,out,1835
+Sri Lanka Vs Netherlands,Netherlands,Fred Klaassen ,3,3,0,0,100.00,9,out,1835
+Sri Lanka Vs Netherlands,Netherlands,Paul van Meekeren ,0,0,0,0,-,10,out,1835
+Sri Lanka Vs Netherlands,Netherlands,Roelof van der Merwe ,0,1,0,0,0.00,11,not out ,1835
+U.A.E. Vs Namibia,U.A.E.,Muhammad Waseem ,50,41,1,3,121.95,1,out,1836
+U.A.E. Vs Namibia,U.A.E.,Vriitya Aravind ,21,32,2,0,65.62,2,out,1836
+U.A.E. Vs Namibia,U.A.E.,Chundangapoyil Rizwan ,43,29,3,1,148.27,3,not out ,1836
+U.A.E. Vs Namibia,U.A.E.,Alishan Sharafu ,4,4,0,0,100.00,4,out,1836
+U.A.E. Vs Namibia,U.A.E.,Basil Hameed ,25,14,2,2,178.57,5,not out ,1836
+U.A.E. Vs Namibia,Namibia,Michael van Lingen ,10,8,1,0,125.00,1,out,1836
+U.A.E. Vs Namibia,Namibia,Stephan Baard ,4,6,1,0,66.66,2,out,1836
+U.A.E. Vs Namibia,Namibia,Jan Nicol Loftie Eaton ,1,6,0,0,16.66,3,out,1836
+U.A.E. Vs Namibia,Namibia,Gerhard Erasmus ,16,18,2,0,88.88,4,out,1836
+U.A.E. Vs Namibia,Namibia,Jan Frylinck ,14,17,1,0,82.35,5,out,1836
+U.A.E. Vs Namibia,Namibia,JJ Smit ,3,3,0,0,100.00,6,out,1836
+U.A.E. Vs Namibia,Namibia,David Wiese ,55,36,3,3,152.77,7,out,1836
+U.A.E. Vs Namibia,Namibia,Zane Green ,2,3,0,0,66.66,8,out,1836
+U.A.E. Vs Namibia,Namibia,Ruben Trumpelmann ,25,24,1,1,104.16,9,not out ,1836
+U.A.E. Vs Namibia,Namibia,Bernard Scholtz ,1,1,0,0,100.00,10,not out ,1836
+West Indies Vs Ireland,West Indies,Kyle Mayers ,1,5,0,0,20.00,1,out,1837
+West Indies Vs Ireland,West Indies,Johnson Charles ,24,18,3,1,133.33,2,out,1837
+West Indies Vs Ireland,West Indies,Evin Lewis ,13,18,0,0,72.22,3,out,1837
+West Indies Vs Ireland,West Indies,Brandon King ,62,48,6,1,129.16,4,not out ,1837
+West Indies Vs Ireland,West Indies,Nicholas Pooran ,13,11,0,1,118.18,5,out,1837
+West Indies Vs Ireland,West Indies,Rovman Powell ,6,8,1,0,75.00,6,out,1837
+West Indies Vs Ireland,West Indies,Odean Smith ,19,12,1,2,158.33,7,not out ,1837
+West Indies Vs Ireland,Ireland,Paul Stirling ,66,48,6,2,137.50,1,not out ,1837
+West Indies Vs Ireland,Ireland,Andy Balbirnie ,37,23,3,3,160.86,2,out,1837
+West Indies Vs Ireland,Ireland,Lorcan Tucker ,45,35,2,2,128.57,3,not out ,1837
+Scotland Vs Zimbabwe,Scotland,George Munsey ,54,51,7,0,105.88,1,out,1838
+Scotland Vs Zimbabwe,Scotland,Michael Jones ,4,5,1,0,80.00,2,out,1838
+Scotland Vs Zimbabwe,Scotland,Matthew Cross ,1,7,0,0,14.28,3,out,1838
+Scotland Vs Zimbabwe,Scotland,Richie Berrington ,13,15,0,0,86.66,4,out,1838
+Scotland Vs Zimbabwe,Scotland,Calum MacLeod ,25,26,1,0,96.15,5,out,1838
+Scotland Vs Zimbabwe,Scotland,Michael Leask ,12,9,2,0,133.33,6,out,1838
+Scotland Vs Zimbabwe,Scotland,Chris Greaves ,3,7,0,0,42.85,7,not out ,1838
+Scotland Vs Zimbabwe,Scotland,Josh Davey ,4,3,0,0,133.33,8,not out ,1838
+Scotland Vs Zimbabwe,Zimbabwe,Regis Chakabva ,4,3,1,0,133.33,1,out,1838
+Scotland Vs Zimbabwe,Zimbabwe,Craig Ervine ,58,54,6,0,107.40,2,out,1838
+Scotland Vs Zimbabwe,Zimbabwe,Wessly Madhevere ,0,5,0,0,0.00,3,out,1838
+Scotland Vs Zimbabwe,Zimbabwe,Sean Williams ,7,12,0,0,58.33,4,out,1838
+Scotland Vs Zimbabwe,Zimbabwe,Sikandar Raza ,40,23,3,2,173.91,5,out,1838
+Scotland Vs Zimbabwe,Zimbabwe,Milton Shumba ,11,11,0,0,100.00,6,not out ,1838
+Scotland Vs Zimbabwe,Zimbabwe,Ryan Burl ,9,5,1,0,180.00,7,not out ,1838
+New Zealand Vs Australia,New Zealand,Finn Allen ,42,16,5,3,262.50,1,out,1839
+New Zealand Vs Australia,New Zealand,Devon Conway ,92,58,7,2,158.62,2,not out ,1839
+New Zealand Vs Australia,New Zealand,Kane Williamson ,23,23,1,1,100.00,3,out,1839
+New Zealand Vs Australia,New Zealand,Glenn Phillips ,12,10,2,0,120.00,4,out,1839
+New Zealand Vs Australia,New Zealand,James Neesham ,26,13,0,2,200.00,5,not out ,1839
+New Zealand Vs Australia,Australia,David Warner ,5,6,1,0,83.33,1,out,1839
+New Zealand Vs Australia,Australia,Aaron Finch ,13,11,1,1,118.18,2,out,1839
+New Zealand Vs Australia,Australia,Mitchell Marsh ,16,12,2,1,133.33,3,out,1839
+New Zealand Vs Australia,Australia,Glenn Maxwell ,28,20,3,1,140.00,4,out,1839
+New Zealand Vs Australia,Australia,Marcus Stoinis ,7,14,0,0,50.00,5,out,1839
+New Zealand Vs Australia,Australia,Tim David ,11,8,0,1,137.50,6,out,1839
+New Zealand Vs Australia,Australia,Matthew Wade ,2,4,0,0,50.00,7,out,1839
+New Zealand Vs Australia,Australia,Pat Cummins ,21,18,2,1,116.66,8,out,1839
+New Zealand Vs Australia,Australia,Mitchell Starc ,4,7,0,0,57.14,9,out,1839
+New Zealand Vs Australia,Australia,Adam Zampa ,0,2,0,0,0.00,10,out,1839
+New Zealand Vs Australia,Australia,Josh Hazlewood ,1,1,0,0,100.00,11,not out ,1839
+Afghanistan Vs England,Afghanistan,Hazratullah Zazai ,7,17,1,0,41.17,1,out,1840
+Afghanistan Vs England,Afghanistan,Rahmanullah Gurbaz ,10,9,0,1,111.11,2,out,1840
+Afghanistan Vs England,Afghanistan,Ibrahim Zadran ,32,32,3,1,100.00,3,out,1840
+Afghanistan Vs England,Afghanistan,Usman Ghani ,30,30,3,0,100.00,4,out,1840
+Afghanistan Vs England,Afghanistan,Najibullah Zadran ,13,11,0,1,118.18,5,out,1840
+Afghanistan Vs England,Afghanistan,Mohammad Nabi ,3,5,0,0,60.00,6,out,1840
+Afghanistan Vs England,Afghanistan,Azmatullah Omarzai ,8,6,1,0,133.33,7,out,1840
+Afghanistan Vs England,Afghanistan,Rashid Khan ,0,1,0,0,0.00,8,out,1840
+Afghanistan Vs England,Afghanistan,Mujeeb Ur Rahman ,0,1,0,0,0.00,9,out,1840
+Afghanistan Vs England,Afghanistan,Fareed Ahmad ,2,4,0,0,50.00,10,not out ,1840
+Afghanistan Vs England,Afghanistan,Fazalhaq Farooqi ,0,2,0,0,0.00,11,out,1840
+Afghanistan Vs England,England,Jos Buttler ,18,18,3,0,100.00,1,out,1840
+Afghanistan Vs England,England,Alex Hales ,19,20,0,1,95.00,2,out,1840
+Afghanistan Vs England,England,Dawid Malan ,18,30,0,0,60.00,3,out,1840
+Afghanistan Vs England,England,Ben Stokes ,2,4,0,0,50.00,4,out,1840
+Afghanistan Vs England,England,Liam Livingstone ,29,21,3,0,138.09,5,not out ,1840
+Afghanistan Vs England,England,Harry Brook ,7,6,0,0,116.66,6,out,1840
+Afghanistan Vs England,England,Moeen Ali ,8,10,0,0,80.00,7,not out ,1840
+Ireland Vs Sri Lanka,Ireland,Paul Stirling ,34,25,4,1,136.00,1,out,1841
+Ireland Vs Sri Lanka,Ireland,Andy Balbirnie ,1,5,0,0,20.00,2,out,1841
+Ireland Vs Sri Lanka,Ireland,Lorcan Tucker ,10,11,1,0,90.90,3,out,1841
+Ireland Vs Sri Lanka,Ireland,Harry Tector ,45,42,2,1,107.14,4,out,1841
+Ireland Vs Sri Lanka,Ireland,Curtis Campher ,2,4,0,0,50.00,5,out,1841
+Ireland Vs Sri Lanka,Ireland,George Dockrell ,14,16,0,0,87.50,6,out,1841
+Ireland Vs Sri Lanka,Ireland,Gareth Delany ,9,6,1,0,150.00,7,out,1841
+Ireland Vs Sri Lanka,Ireland,Mark Adair ,0,1,0,0,0.00,8,out,1841
+Ireland Vs Sri Lanka,Ireland,Simi Singh ,7,8,1,0,87.50,9,not out ,1841
+Ireland Vs Sri Lanka,Ireland,Barry McCarthy ,2,2,0,0,100.00,10,not out ,1841
+Ireland Vs Sri Lanka,Sri Lanka,Kusal Mendis ,68,43,5,3,158.13,1,not out ,1841
+Ireland Vs Sri Lanka,Sri Lanka,Dhananjaya de Silva ,31,25,2,1,124.00,2,out,1841
+Ireland Vs Sri Lanka,Sri Lanka,Charith Asalanka ,31,22,2,0,140.90,3,not out ,1841
+Pakistan Vs India,Pakistan,Mohammad Rizwan ,4,12,1,0,33.33,1,out,1842
+Pakistan Vs India,Pakistan,Babar Azam ,0,1,0,0,0.00,2,out,1842
+Pakistan Vs India,Pakistan,Shan Masood ,52,42,5,0,123.80,3,not out ,1842
+Pakistan Vs India,Pakistan,Iftikhar Ahmed ,51,34,2,4,150.00,4,out,1842
+Pakistan Vs India,Pakistan,Shadab Khan ,5,6,1,0,83.33,5,out,1842
+Pakistan Vs India,Pakistan,Haider Ali ,2,4,0,0,50.00,6,out,1842
+Pakistan Vs India,Pakistan,Mohammad Nawaz ,9,6,2,0,150.00,7,out,1842
+Pakistan Vs India,Pakistan,Asif Ali ,2,3,0,0,66.66,8,out,1842
+Pakistan Vs India,Pakistan,Shaheen Shah Afridi ,16,8,1,1,200.00,9,out,1842
+Pakistan Vs India,Pakistan,Haris Rauf ,6,4,0,1,150.00,10,not out ,1842
+Pakistan Vs India,India,KL Rahul ,4,8,0,0,50.00,1,out,1842
+Pakistan Vs India,India,Rohit Sharma ,4,7,0,0,57.14,2,out,1842
+Pakistan Vs India,India,Virat Kohli ,82,53,6,4,154.71,3,not out ,1842
+Pakistan Vs India,India,Suryakumar Yadav ,15,10,2,0,150.00,4,out,1842
+Pakistan Vs India,India,Axar Patel ,2,3,0,0,66.66,5,out,1842
+Pakistan Vs India,India,Hardik Pandya ,40,37,1,2,108.10,6,out,1842
+Pakistan Vs India,India,Dinesh Karthik ,1,2,0,0,50.00,7,out,1842
+Pakistan Vs India,India,Ravichandran Ashwin ,1,1,0,0,100.00,8,not out ,1842
+Bangladesh Vs Netherlands,Bangladesh,Najmul Hossain Shanto ,25,20,4,0,125.00,1,out,1843
+Bangladesh Vs Netherlands,Bangladesh,Soumya Sarkar ,14,14,2,0,100.00,2,out,1843
+Bangladesh Vs Netherlands,Bangladesh,Litton Das ,9,11,0,0,81.81,3,out,1843
+Bangladesh Vs Netherlands,Bangladesh,Shakib Al Hasan ,7,9,0,0,77.77,4,out,1843
+Bangladesh Vs Netherlands,Bangladesh,Afif Hossain ,38,27,2,2,140.74,5,out,1843
+Bangladesh Vs Netherlands,Bangladesh,Yasir Ali ,3,5,0,0,60.00,6,out,1843
+Bangladesh Vs Netherlands,Bangladesh,Nurul Hasan ,13,18,0,0,72.22,7,out,1843
+Bangladesh Vs Netherlands,Bangladesh,Mosaddek Hossain ,20,12,2,1,166.66,8,not out ,1843
+Bangladesh Vs Netherlands,Bangladesh,Taskin Ahmed ,0,1,0,0,0.00,9,out,1843
+Bangladesh Vs Netherlands,Bangladesh,Hasan Mahmud ,0,3,0,0,0.00,10,not out ,1843
+Bangladesh Vs Netherlands,Netherlands,Vikramjit Singh ,0,1,0,0,0.00,1,out,1843
+Bangladesh Vs Netherlands,Netherlands,Max O Dowd ,8,8,0,1,100.00,2,out,1843
+Bangladesh Vs Netherlands,Netherlands,Bas de Leede ,0,1,0,0,0.00,3,out,1843
+Bangladesh Vs Netherlands,Netherlands,Colin Ackermann ,62,48,6,2,129.16,4,out,1843
+Bangladesh Vs Netherlands,Netherlands,Tom Cooper ,0,0,0,0,-,5,out,1843
+Bangladesh Vs Netherlands,Netherlands,Scott Edwards ,16,24,1,0,66.66,6,out,1843
+Bangladesh Vs Netherlands,Netherlands,Tim Pringle ,1,6,0,0,16.66,7,out,1843
+Bangladesh Vs Netherlands,Netherlands,Logan van Beek ,2,5,0,0,40.00,8,out,1843
+Bangladesh Vs Netherlands,Netherlands,Shariz Ahmad ,9,8,1,0,112.50,9,out,1843
+Bangladesh Vs Netherlands,Netherlands,Fred Klaassen ,7,6,0,0,116.66,10,not out ,1843
+Bangladesh Vs Netherlands,Netherlands,Paul van Meekeren ,24,14,3,1,171.42,11,out,1843
+Zimbabwe Vs South Africa,Zimbabwe,Regis Chakabva ,8,8,0,1,100.00,1,out,1844
+Zimbabwe Vs South Africa,Zimbabwe,Craig Ervine ,2,6,0,0,33.33,2,out,1844
+Zimbabwe Vs South Africa,Zimbabwe,Sean Williams ,1,1,0,0,100.00,3,out,1844
+Zimbabwe Vs South Africa,Zimbabwe,Sikandar Raza ,0,2,0,0,0.00,4,out,1844
+Zimbabwe Vs South Africa,Zimbabwe,Wessly Madhevere ,35,18,4,1,194.44,5,not out ,1844
+Zimbabwe Vs South Africa,Zimbabwe,Milton Shumba ,18,20,2,0,90.00,6,out,1844
+Zimbabwe Vs South Africa,South Africa,Quinton de Kock ,47,18,8,1,261.11,1,not out ,1844
+Zimbabwe Vs South Africa,South Africa,Temba Bavuma ,2,2,0,0,100.00,2,not out ,1844
+Sri Lanka Vs Australia,Sri Lanka,Pathum Nissanka ,40,45,2,0,88.88,1,out,1845
+Sri Lanka Vs Australia,Sri Lanka,Kusal Mendis ,5,6,1,0,83.33,2,out,1845
+Sri Lanka Vs Australia,Sri Lanka,Dhananjaya de Silva ,26,23,3,0,113.04,3,out,1845
+Sri Lanka Vs Australia,Sri Lanka,Charith Asalanka ,38,25,3,2,152.00,4,not out ,1845
+Sri Lanka Vs Australia,Sri Lanka,Bhanuka Rajapaksa ,7,5,1,0,140.00,5,out,1845
+Sri Lanka Vs Australia,Sri Lanka,Dasun Shanaka ,3,5,0,0,60.00,6,out,1845
+Sri Lanka Vs Australia,Sri Lanka,Wanindu Hasaranga de Silva ,1,4,0,0,25.00,7,out,1845
+Sri Lanka Vs Australia,Sri Lanka,Chamika Karunaratne ,14,7,2,0,200.00,8,not out ,1845
+Sri Lanka Vs Australia,Australia,David Warner ,11,10,0,0,110.00,1,out,1845
+Sri Lanka Vs Australia,Australia,Aaron Finch ,31,42,0,1,73.80,2,not out ,1845
+Sri Lanka Vs Australia,Australia,Mitchell Marsh ,17,17,1,1,100.00,3,out,1845
+Sri Lanka Vs Australia,Australia,Glenn Maxwell ,23,12,2,2,191.66,4,out,1845
+Sri Lanka Vs Australia,Australia,Marcus Stoinis ,59,18,4,6,327.77,5,not out ,1845
+Ireland Vs England,Ireland,Paul Stirling ,14,8,1,1,175.00,1,out,1846
+Ireland Vs England,Ireland,Andy Balbirnie ,62,47,5,2,131.91,2,out,1846
+Ireland Vs England,Ireland,Lorcan Tucker ,34,27,3,1,125.92,3,out,1846
+Ireland Vs England,Ireland,Harry Tector ,0,2,0,0,0.00,4,out,1846
+Ireland Vs England,Ireland,Curtis Campher ,18,11,3,0,163.63,5,out,1846
+Ireland Vs England,Ireland,George Dockrell ,0,1,0,0,0.00,6,out,1846
+Ireland Vs England,Ireland,Gareth Delany ,12,10,1,0,120.00,7,not out ,1846
+Ireland Vs England,Ireland,Mark Adair ,4,4,0,0,100.00,8,out,1846
+Ireland Vs England,Ireland,Barry McCarthy ,3,3,0,0,100.00,9,out,1846
+Ireland Vs England,Ireland,Fionn Hand ,1,2,0,0,50.00,10,out,1846
+Ireland Vs England,Ireland,Josh Little ,0,1,0,0,0.00,11,out,1846
+Ireland Vs England,England,Jos Buttler ,0,2,0,0,0.00,1,out,1846
+Ireland Vs England,England,Alex Hales ,7,5,1,0,140.00,2,out,1846
+Ireland Vs England,England,Dawid Malan ,35,37,2,0,94.59,3,out,1846
+Ireland Vs England,England,Ben Stokes ,6,8,0,0,75.00,4,out,1846
+Ireland Vs England,England,Harry Brook ,18,21,1,0,85.71,5,out,1846
+Ireland Vs England,England,Moeen Ali ,24,12,3,1,200.00,6,not out ,1846
+Ireland Vs England,England,Liam Livingstone ,1,2,0,0,50.00,7,not out ,1846
+South Africa Vs Bangladesh,South Africa,Temba Bavuma ,2,6,0,0,33.33,1,out,1847
+South Africa Vs Bangladesh,South Africa,Quinton de Kock ,63,38,7,3,165.78,2,out,1847
+South Africa Vs Bangladesh,South Africa,Rilee Rossouw ,109,56,7,8,194.64,3,out,1847
+South Africa Vs Bangladesh,South Africa,Tristan Stubbs ,7,7,1,0,100.00,4,out,1847
+South Africa Vs Bangladesh,South Africa,Aiden Markram ,10,11,1,0,90.90,5,out,1847
+South Africa Vs Bangladesh,South Africa,David Miller ,2,4,0,0,50.00,6,not out ,1847
+South Africa Vs Bangladesh,South Africa,Wayne Parnell ,0,2,0,0,0.00,7,not out ,1847
+South Africa Vs Bangladesh,Bangladesh,Najmul Hossain Shanto ,9,9,1,0,100.00,1,out,1847
+South Africa Vs Bangladesh,Bangladesh,Soumya Sarkar ,15,6,0,2,250.00,2,out,1847
+South Africa Vs Bangladesh,Bangladesh,Litton Das ,34,31,1,1,109.67,3,out,1847
+South Africa Vs Bangladesh,Bangladesh,Shakib Al Hasan ,1,4,0,0,25.00,4,out,1847
+South Africa Vs Bangladesh,Bangladesh,Afif Hossain ,1,5,0,0,20.00,5,out,1847
+South Africa Vs Bangladesh,Bangladesh,Mehidy Hasan Miraz ,11,13,0,0,84.61,6,out,1847
+South Africa Vs Bangladesh,Bangladesh,Mosaddek Hossain ,0,3,0,0,0.00,7,out,1847
+South Africa Vs Bangladesh,Bangladesh,Nurul Hasan ,2,6,0,0,33.33,8,out,1847
+South Africa Vs Bangladesh,Bangladesh,Taskin Ahmed ,10,17,1,0,58.82,9,out,1847
+South Africa Vs Bangladesh,Bangladesh,Hasan Mahmud ,0,2,0,0,0.00,10,out,1847
+South Africa Vs Bangladesh,Bangladesh,Mustafizur Rahman ,9,3,0,1,300.00,11,not out ,1847
+India Vs Netherlands,India,KL Rahul ,9,12,1,0,75.00,1,out,1848
+India Vs Netherlands,India,Rohit Sharma ,53,39,4,3,135.89,2,out,1848
+India Vs Netherlands,India,Virat Kohli ,62,44,3,2,140.90,3,not out ,1848
+India Vs Netherlands,India,Suryakumar Yadav ,51,25,7,1,204.00,4,not out ,1848
+India Vs Netherlands,Netherlands,Vikramjit Singh ,1,9,0,0,11.11,1,out,1848
+India Vs Netherlands,Netherlands,Max O Dowd ,16,10,3,0,160.00,2,out,1848
+India Vs Netherlands,Netherlands,Bas de Leede ,16,23,0,0,69.56,3,out,1848
+India Vs Netherlands,Netherlands,Colin Ackermann ,17,21,1,0,80.95,4,out,1848
+India Vs Netherlands,Netherlands,Tom Cooper ,9,12,0,0,75.00,5,out,1848
+India Vs Netherlands,Netherlands,Scott Edwards ,5,8,0,0,62.50,6,out,1848
+India Vs Netherlands,Netherlands,Tim Pringle ,20,15,1,1,133.33,7,out,1848
+India Vs Netherlands,Netherlands,Logan van Beek ,3,5,0,0,60.00,8,out,1848
+India Vs Netherlands,Netherlands,Shariz Ahmad ,16,11,2,0,145.45,9,not out ,1848
+India Vs Netherlands,Netherlands,Fred Klaassen ,0,1,0,0,0.00,10,out,1848
+India Vs Netherlands,Netherlands,Paul van Meekeren ,14,6,3,0,233.33,11,not out ,1848
+Zimbabwe Vs Pakistan,Zimbabwe,Wessly Madhevere ,17,13,3,0,130.76,1,out,1849
+Zimbabwe Vs Pakistan,Zimbabwe,Craig Ervine ,19,19,2,0,100.00,2,out,1849
+Zimbabwe Vs Pakistan,Zimbabwe,Milton Shumba ,8,10,1,0,80.00,3,out,1849
+Zimbabwe Vs Pakistan,Zimbabwe,Sean Williams ,31,28,3,0,110.71,4,out,1849
+Zimbabwe Vs Pakistan,Zimbabwe,Sikandar Raza ,9,16,1,0,56.25,5,out,1849
+Zimbabwe Vs Pakistan,Zimbabwe,Regis Chakabva ,0,1,0,0,0.00,6,out,1849
+Zimbabwe Vs Pakistan,Zimbabwe,Ryan Burl ,10,15,0,0,66.66,7,not out ,1849
+Zimbabwe Vs Pakistan,Zimbabwe,Luke Jongwe ,0,1,0,0,0.00,8,out,1849
+Zimbabwe Vs Pakistan,Zimbabwe,Brad Evans ,19,15,0,1,126.66,9,out,1849
+Zimbabwe Vs Pakistan,Zimbabwe,Richard Ngarava ,3,2,0,0,150.00,10,not out ,1849
+Zimbabwe Vs Pakistan,Pakistan,Mohammad Rizwan ,14,16,1,1,87.50,1,out,1849
+Zimbabwe Vs Pakistan,Pakistan,Babar Azam ,4,9,1,0,44.44,2,out,1849
+Zimbabwe Vs Pakistan,Pakistan,Shan Masood ,44,38,3,0,115.78,3,out,1849
+Zimbabwe Vs Pakistan,Pakistan,Iftikhar Ahmed ,5,10,1,0,50.00,4,out,1849
+Zimbabwe Vs Pakistan,Pakistan,Shadab Khan ,17,14,0,1,121.42,5,out,1849
+Zimbabwe Vs Pakistan,Pakistan,Haider Ali ,0,1,0,0,0.00,6,out,1849
+Zimbabwe Vs Pakistan,Pakistan,Mohammad Nawaz ,22,18,1,1,122.22,7,out,1849
+Zimbabwe Vs Pakistan,Pakistan,Mohammad Wasim ,12,13,2,0,92.30,8,not out ,1849
+Zimbabwe Vs Pakistan,Pakistan,Shaheen Shah Afridi ,1,1,0,0,100.00,9,out,1849
+New Zealand Vs Sri Lanka,New Zealand,Finn Allen ,1,3,0,0,33.33,1,out,1850
+New Zealand Vs Sri Lanka,New Zealand,Devon Conway ,1,4,0,0,25.00,2,out,1850
+New Zealand Vs Sri Lanka,New Zealand,Kane Williamson ,8,13,1,0,61.53,3,out,1850
+New Zealand Vs Sri Lanka,New Zealand,Glenn Phillips ,104,64,10,4,162.50,4,out,1850
+New Zealand Vs Sri Lanka,New Zealand,Daryl Mitchell ,22,24,0,0,91.66,5,out,1850
+New Zealand Vs Sri Lanka,New Zealand,James Neesham ,5,8,0,0,62.50,6,out,1850
+New Zealand Vs Sri Lanka,New Zealand,Mitchell Santner ,11,5,0,1,220.00,7,not out ,1850
+New Zealand Vs Sri Lanka,New Zealand,Ish Sodhi ,1,1,0,0,100.00,8,out,1850
+New Zealand Vs Sri Lanka,New Zealand,Tim Southee ,4,1,1,0,400.00,9,not out ,1850
+New Zealand Vs Sri Lanka,Sri Lanka,Pathum Nissanka ,0,5,0,0,0.00,1,out,1850
+New Zealand Vs Sri Lanka,Sri Lanka,Kusal Mendis ,4,3,1,0,133.33,2,out,1850
+New Zealand Vs Sri Lanka,Sri Lanka,Dhananjaya de Silva ,0,3,0,0,0.00,3,out,1850
+New Zealand Vs Sri Lanka,Sri Lanka,Charith Asalanka ,4,8,0,0,50.00,4,out,1850
+New Zealand Vs Sri Lanka,Sri Lanka,Bhanuka Rajapaksa ,34,22,3,2,154.54,5,out,1850
+New Zealand Vs Sri Lanka,Sri Lanka,Chamika Karunaratne ,3,8,0,0,37.50,6,out,1850
+New Zealand Vs Sri Lanka,Sri Lanka,Dasun Shanaka ,35,32,4,1,109.37,7,out,1850
+New Zealand Vs Sri Lanka,Sri Lanka,Wanindu Hasaranga de Silva ,4,6,1,0,66.66,8,out,1850
+New Zealand Vs Sri Lanka,Sri Lanka,Maheesh Theekshana ,0,3,0,0,0.00,9,out,1850
+New Zealand Vs Sri Lanka,Sri Lanka,Kasun Rajitha ,8,21,0,0,38.09,10,not out ,1850
+New Zealand Vs Sri Lanka,Sri Lanka,Lahiru Kumara ,4,5,1,0,80.00,11,out,1850
+Bangladesh Vs Zimbabwe,Bangladesh,Najmul Hossain Shanto ,71,55,7,1,129.09,1,out,1851
+Bangladesh Vs Zimbabwe,Bangladesh,Soumya Sarkar ,0,2,0,0,0.00,2,out,1851
+Bangladesh Vs Zimbabwe,Bangladesh,Litton Das ,14,12,3,0,116.66,3,out,1851
+Bangladesh Vs Zimbabwe,Bangladesh,Shakib Al Hasan ,23,20,1,0,115.00,4,out,1851
+Bangladesh Vs Zimbabwe,Bangladesh,Afif Hossain ,29,19,1,1,152.63,5,out,1851
+Bangladesh Vs Zimbabwe,Bangladesh,Mosaddek Hossain ,7,10,0,0,70.00,6,out,1851
+Bangladesh Vs Zimbabwe,Bangladesh,Nurul Hasan ,1,1,0,0,100.00,7,out,1851
+Bangladesh Vs Zimbabwe,Bangladesh,Yasir Ali ,1,1,0,0,100.00,8,not out ,1851
+Bangladesh Vs Zimbabwe,Zimbabwe,Wessly Madhevere ,4,3,1,0,133.33,1,out,1851
+Bangladesh Vs Zimbabwe,Zimbabwe,Craig Ervine ,8,7,2,0,114.28,2,out,1851
+Bangladesh Vs Zimbabwe,Zimbabwe,Milton Shumba ,8,15,1,0,53.33,3,out,1851
+Bangladesh Vs Zimbabwe,Zimbabwe,Sean Williams ,64,42,8,0,152.38,4,out,1851
+Bangladesh Vs Zimbabwe,Zimbabwe,Sikandar Raza ,0,3,0,0,0.00,5,out,1851
+Bangladesh Vs Zimbabwe,Zimbabwe,Regis Chakabva ,15,19,0,0,78.94,6,out,1851
+Bangladesh Vs Zimbabwe,Zimbabwe,Ryan Burl ,27,25,2,1,108.00,7,not out ,1851
+Bangladesh Vs Zimbabwe,Zimbabwe,Brad Evans ,2,2,0,0,100.00,8,out,1851
+Bangladesh Vs Zimbabwe,Zimbabwe,Richard Ngarava ,6,3,0,1,200.00,9,out,1851
+Bangladesh Vs Zimbabwe,Zimbabwe,Blessing Muzarabani ,0,2,0,0,0.00,10,not out ,1851
+Netherlands Vs Pakistan,Netherlands,Stephan Myburgh ,6,11,1,0,54.54,1,out,1852
+Netherlands Vs Pakistan,Netherlands,Max O Dowd ,8,13,0,0,61.53,2,out,1852
+Netherlands Vs Pakistan,Netherlands,Bas de Leede ,6,16,1,0,37.50,3,not out ,1852
+Netherlands Vs Pakistan,Netherlands,Tom Cooper ,1,2,0,0,50.00,4,out,1852
+Netherlands Vs Pakistan,Netherlands,Colin Ackermann ,27,27,2,0,100.00,5,out,1852
+Netherlands Vs Pakistan,Netherlands,Scott Edwards ,15,20,1,0,75.00,6,out,1852
+Netherlands Vs Pakistan,Netherlands,Roelof van der Merwe ,5,6,0,0,83.33,7,out,1852
+Netherlands Vs Pakistan,Netherlands,Tim Pringle ,5,8,0,0,62.50,8,out,1852
+Netherlands Vs Pakistan,Netherlands,Logan van Beek ,6,9,0,0,66.66,9,not out ,1852
+Netherlands Vs Pakistan,Netherlands,Fred Klaassen ,0,1,0,0,0.00,10,out,1852
+Netherlands Vs Pakistan,Netherlands,Paul van Meekeren ,7,7,0,0,100.00,11,out,1852
+Netherlands Vs Pakistan,Pakistan,Mohammad Rizwan ,49,39,5,0,125.64,1,out,1852
+Netherlands Vs Pakistan,Pakistan,Babar Azam ,4,5,1,0,80.00,2,out,1852
+Netherlands Vs Pakistan,Pakistan,Fakhar Zaman ,20,16,3,0,125.00,3,out,1852
+Netherlands Vs Pakistan,Pakistan,Shan Masood ,12,16,0,0,75.00,4,out,1852
+Netherlands Vs Pakistan,Pakistan,Iftikhar Ahmed ,6,5,0,0,120.00,5,not out ,1852
+Netherlands Vs Pakistan,Pakistan,Shadab Khan ,4,2,1,0,200.00,6,not out ,1852
+India Vs South Africa,India,KL Rahul ,9,14,0,1,64.28,1,out,1853
+India Vs South Africa,India,Rohit Sharma ,15,14,1,1,107.14,2,out,1853
+India Vs South Africa,India,Virat Kohli ,12,11,2,0,109.09,3,out,1853
+India Vs South Africa,India,Suryakumar Yadav ,68,40,6,3,170.00,4,out,1853
+India Vs South Africa,India,Deepak Hooda ,0,3,0,0,0.00,5,out,1853
+India Vs South Africa,India,Hardik Pandya ,2,3,0,0,66.66,6,out,1853
+India Vs South Africa,India,Dinesh Karthik ,6,15,0,0,40.00,7,out,1853
+India Vs South Africa,India,Ravichandran Ashwin ,7,11,0,0,63.63,8,out,1853
+India Vs South Africa,India,Bhuvneshwar Kumar ,4,6,0,0,66.66,9,not out ,1853
+India Vs South Africa,India,Mohammed Shami ,0,2,0,0,0.00,10,out,1853
+India Vs South Africa,India,Arshdeep Singh ,2,1,0,0,200.00,11,not out ,1853
+India Vs South Africa,South Africa,Quinton de Kock ,1,3,0,0,33.33,1,out,1853
+India Vs South Africa,South Africa,Temba Bavuma ,10,15,0,1,66.66,2,out,1853
+India Vs South Africa,South Africa,Rilee Rossouw ,0,2,0,0,0.00,3,out,1853
+India Vs South Africa,South Africa,Aiden Markram ,52,41,6,1,126.82,4,out,1853
+India Vs South Africa,South Africa,David Miller ,59,46,4,3,128.26,5,not out ,1853
+India Vs South Africa,South Africa,Tristan Stubbs ,6,6,1,0,100.00,6,out,1853
+India Vs South Africa,South Africa,Wayne Parnell ,2,5,0,0,40.00,7,not out ,1853
+Australia Vs Ireland,Australia,David Warner ,3,7,0,0,42.85,1,out,1855
+Australia Vs Ireland,Australia,Aaron Finch ,63,44,5,3,143.18,2,out,1855
+Australia Vs Ireland,Australia,Mitchell Marsh ,28,22,2,2,127.27,3,out,1855
+Australia Vs Ireland,Australia,Glenn Maxwell ,13,9,0,1,144.44,4,out,1855
+Australia Vs Ireland,Australia,Marcus Stoinis ,35,25,3,1,140.00,5,out,1855
+Australia Vs Ireland,Australia,Tim David ,15,10,2,0,150.00,6,not out ,1855
+Australia Vs Ireland,Australia,Matthew Wade ,7,3,1,0,233.33,7,not out ,1855
+Australia Vs Ireland,Ireland,Paul Stirling ,11,7,1,1,157.14,1,out,1855
+Australia Vs Ireland,Ireland,Andy Balbirnie ,6,7,0,1,85.71,2,out,1855
+Australia Vs Ireland,Ireland,Lorcan Tucker ,71,48,9,1,147.91,3,not out ,1855
+Australia Vs Ireland,Ireland,Harry Tector ,6,4,1,0,150.00,4,out,1855
+Australia Vs Ireland,Ireland,Curtis Campher ,0,1,0,0,0.00,5,out,1855
+Australia Vs Ireland,Ireland,George Dockrell ,0,4,0,0,0.00,6,out,1855
+Australia Vs Ireland,Ireland,Gareth Delany ,14,10,2,0,140.00,7,out,1855
+Australia Vs Ireland,Ireland,Mark Adair ,11,11,1,0,100.00,8,out,1855
+Australia Vs Ireland,Ireland,Fionn Hand ,6,6,1,0,100.00,9,out,1855
+Australia Vs Ireland,Ireland,Barry McCarthy ,3,7,0,0,42.85,10,out,1855
+Australia Vs Ireland,Ireland,Josh Little ,1,5,0,0,20.00,11,out,1855
+Afghanistan Vs Sri Lanka,Afghanistan,Rahmanullah Gurbaz ,28,24,2,2,116.66,1,out,1856
+Afghanistan Vs Sri Lanka,Afghanistan,Usman Ghani ,27,27,2,1,100.00,2,out,1856
+Afghanistan Vs Sri Lanka,Afghanistan,Ibrahim Zadran ,22,18,1,1,122.22,3,out,1856
+Afghanistan Vs Sri Lanka,Afghanistan,Najibullah Zadran ,18,16,1,0,112.50,4,out,1856
+Afghanistan Vs Sri Lanka,Afghanistan,Gulbadin Naib ,12,14,0,0,85.71,5,out,1856
+Afghanistan Vs Sri Lanka,Afghanistan,Mohammad Nabi ,13,8,1,0,162.50,6,out,1856
+Afghanistan Vs Sri Lanka,Afghanistan,Rashid Khan ,9,8,1,0,112.50,7,out,1856
+Afghanistan Vs Sri Lanka,Afghanistan,Azmatullah Omarzai ,3,4,0,0,75.00,8,not out ,1856
+Afghanistan Vs Sri Lanka,Afghanistan,Mujeeb Ur Rahman ,1,2,0,0,50.00,9,out,1856
+Afghanistan Vs Sri Lanka,Sri Lanka,Pathum Nissanka ,10,10,2,0,100.00,1,out,1856
+Afghanistan Vs Sri Lanka,Sri Lanka,Kusal Mendis ,25,27,2,1,92.59,2,out,1856
+Afghanistan Vs Sri Lanka,Sri Lanka,Dhananjaya de Silva ,66,42,6,2,157.14,3,not out ,1856
+Afghanistan Vs Sri Lanka,Sri Lanka,Charith Asalanka ,19,18,1,0,105.55,4,out,1856
+Afghanistan Vs Sri Lanka,Sri Lanka,Bhanuka Rajapaksa ,18,14,3,0,128.57,5,out,1856
+Afghanistan Vs Sri Lanka,Sri Lanka,Dasun Shanaka ,0,0,0,0,-,6,not out ,1856
+England Vs New Zealand,England,Jos Buttler ,73,47,7,2,155.31,1,out,1858
+England Vs New Zealand,England,Alex Hales ,52,40,7,1,130.00,2,out,1858
+England Vs New Zealand,England,Moeen Ali ,5,6,0,0,83.33,3,out,1858
+England Vs New Zealand,England,Liam Livingstone ,20,14,1,1,142.85,4,out,1858
+England Vs New Zealand,England,Harry Brook ,7,3,0,1,233.33,5,out,1858
+England Vs New Zealand,England,Ben Stokes ,8,7,0,0,114.28,6,out,1858
+England Vs New Zealand,England,Sam Curran ,6,3,0,1,200.00,7,not out ,1858
+England Vs New Zealand,England,Dawid Malan ,3,1,0,0,300.00,8,not out ,1858
+England Vs New Zealand,New Zealand,Finn Allen ,16,11,0,1,145.45,1,out,1858
+England Vs New Zealand,New Zealand,Devon Conway ,3,9,0,0,33.33,2,out,1858
+England Vs New Zealand,New Zealand,Kane Williamson ,40,40,3,0,100.00,3,out,1858
+England Vs New Zealand,New Zealand,Glenn Phillips ,62,36,4,3,172.22,4,out,1858
+England Vs New Zealand,New Zealand,James Neesham ,6,3,1,0,200.00,5,out,1858
+England Vs New Zealand,New Zealand,Daryl Mitchell ,3,5,0,0,60.00,6,out,1858
+England Vs New Zealand,New Zealand,Mitchell Santner ,16,10,0,1,160.00,7,not out ,1858
+England Vs New Zealand,New Zealand,Ish Sodhi ,6,6,0,0,100.00,8,not out ,1858
+Zimbabwe Vs Netherlands,Zimbabwe,Wessly Madhevere ,1,5,0,0,20.00,1,out,1859
+Zimbabwe Vs Netherlands,Zimbabwe,Craig Ervine ,3,12,0,0,25.00,2,out,1859
+Zimbabwe Vs Netherlands,Zimbabwe,Regis Chakabva ,5,16,1,0,31.25,3,out,1859
+Zimbabwe Vs Netherlands,Zimbabwe,Sean Williams ,28,23,3,0,121.73,4,out,1859
+Zimbabwe Vs Netherlands,Zimbabwe,Sikandar Raza ,40,24,3,3,166.66,5,out,1859
+Zimbabwe Vs Netherlands,Zimbabwe,Milton Shumba ,2,3,0,0,66.66,6,out,1859
+Zimbabwe Vs Netherlands,Zimbabwe,Ryan Burl ,2,7,0,0,28.57,7,out,1859
+Zimbabwe Vs Netherlands,Zimbabwe,Luke Jongwe ,6,8,0,0,75.00,8,out,1859
+Zimbabwe Vs Netherlands,Zimbabwe,Richard Ngarava ,9,7,0,1,128.57,9,out,1859
+Zimbabwe Vs Netherlands,Zimbabwe,Tendai Chatara ,6,7,0,0,85.71,10,not out ,1859
+Zimbabwe Vs Netherlands,Zimbabwe,Blessing Muzarabani ,1,4,0,0,25.00,11,out,1859
+Zimbabwe Vs Netherlands,Netherlands,Stephan Myburgh ,8,7,0,1,114.28,1,out,1859
+Zimbabwe Vs Netherlands,Netherlands,Max O Dowd ,52,47,8,1,110.63,2,out,1859
+Zimbabwe Vs Netherlands,Netherlands,Tom Cooper ,32,29,2,1,110.34,3,out,1859
+Zimbabwe Vs Netherlands,Netherlands,Colin Ackermann ,1,5,0,0,20.00,4,out,1859
+Zimbabwe Vs Netherlands,Netherlands,Bas de Leede ,12,12,2,0,100.00,5,not out ,1859
+Zimbabwe Vs Netherlands,Netherlands,Scott Edwards ,5,6,1,0,83.33,6,out,1859
+Zimbabwe Vs Netherlands,Netherlands,Roelof van der Merwe ,0,3,0,0,0.00,7,not out ,1859
+India Vs Bangladesh,India,KL Rahul ,50,32,3,4,156.25,1,out,1860
+India Vs Bangladesh,India,Rohit Sharma ,2,8,0,0,25.00,2,out,1860
+India Vs Bangladesh,India,Virat Kohli ,64,44,8,1,145.45,3,not out ,1860
+India Vs Bangladesh,India,Suryakumar Yadav ,30,16,4,0,187.50,4,out,1860
+India Vs Bangladesh,India,Hardik Pandya ,5,6,0,0,83.33,5,out,1860
+India Vs Bangladesh,India,Dinesh Karthik ,7,5,1,0,140.00,6,out,1860
+India Vs Bangladesh,India,Axar Patel ,7,6,1,0,116.66,7,out,1860
+India Vs Bangladesh,India,Ravichandran Ashwin ,13,6,1,1,216.66,8,not out ,1860
+India Vs Bangladesh,Bangladesh,Najmul Hossain Shanto ,21,25,1,1,84.00,1,out,1860
+India Vs Bangladesh,Bangladesh,Litton Das ,60,27,7,3,222.22,2,out,1860
+India Vs Bangladesh,Bangladesh,Shakib Al Hasan ,13,12,2,0,108.33,3,out,1860
+India Vs Bangladesh,Bangladesh,Afif Hossain ,3,5,0,0,60.00,4,out,1860
+India Vs Bangladesh,Bangladesh,Yasir Ali ,1,3,0,0,33.33,5,out,1860
+India Vs Bangladesh,Bangladesh,Nurul Hasan ,25,14,2,1,178.57,6,not out ,1860
+India Vs Bangladesh,Bangladesh,Mosaddek Hossain ,6,3,0,1,200.00,7,out,1860
+India Vs Bangladesh,Bangladesh,Taskin Ahmed ,12,7,1,1,171.42,8,not out ,1860
+Pakistan Vs South Africa,Pakistan,Mohammad Rizwan ,4,4,1,0,100.00,1,out,1861
+Pakistan Vs South Africa,Pakistan,Babar Azam ,6,15,0,0,40.00,2,out,1861
+Pakistan Vs South Africa,Pakistan,Mohammad Haris ,28,11,2,3,254.54,3,out,1861
+Pakistan Vs South Africa,Pakistan,Shan Masood ,2,6,0,0,33.33,4,out,1861
+Pakistan Vs South Africa,Pakistan,Iftikhar Ahmed ,51,35,3,2,145.71,5,out,1861
+Pakistan Vs South Africa,Pakistan,Mohammad Nawaz ,28,22,4,1,127.27,6,out,1861
+Pakistan Vs South Africa,Pakistan,Shadab Khan ,52,22,3,4,236.36,7,out,1861
+Pakistan Vs South Africa,Pakistan,Mohammad Wasim ,0,1,0,0,0.00,8,out,1861
+Pakistan Vs South Africa,Pakistan,Naseem Shah ,5,3,0,0,166.66,9,not out ,1861
+Pakistan Vs South Africa,Pakistan,Haris Rauf ,3,2,0,0,150.00,10,out,1861
+Pakistan Vs South Africa,South Africa,Temba Bavuma ,36,19,4,1,189.47,1,out,1861
+Pakistan Vs South Africa,South Africa,Quinton de Kock ,0,5,0,0,0.00,2,out,1861
+Pakistan Vs South Africa,South Africa,Rilee Rossouw ,7,6,0,1,116.66,3,out,1861
+Pakistan Vs South Africa,South Africa,Aiden Markram ,20,14,4,0,142.85,4,out,1861
+Pakistan Vs South Africa,South Africa,Heinrich Klaasen ,15,9,3,0,166.66,5,out,1861
+Pakistan Vs South Africa,South Africa,Tristan Stubbs ,18,18,0,1,100.00,6,out,1861
+Pakistan Vs South Africa,South Africa,Wayne Parnell ,3,4,0,0,75.00,7,out,1861
+Pakistan Vs South Africa,South Africa,Kagiso Rabada ,1,2,0,0,50.00,8,out,1861
+Pakistan Vs South Africa,South Africa,Anrich Nortje ,1,5,0,0,20.00,9,out,1861
+Pakistan Vs South Africa,South Africa,Lungi Ngidi ,4,1,1,0,400.00,10,not out ,1861
+Pakistan Vs South Africa,South Africa,Tabraiz Shamsi ,1,1,0,0,100.00,11,not out ,1861
+New Zealand Vs Ireland,New Zealand,Finn Allen ,32,18,5,1,177.77,1,out,1862
+New Zealand Vs Ireland,New Zealand,Devon Conway ,28,33,2,0,84.84,2,out,1862
+New Zealand Vs Ireland,New Zealand,Kane Williamson ,61,35,5,3,174.28,3,out,1862
+New Zealand Vs Ireland,New Zealand,Glenn Phillips ,17,9,2,1,188.88,4,out,1862
+New Zealand Vs Ireland,New Zealand,Daryl Mitchell ,31,21,2,0,147.61,5,not out ,1862
+New Zealand Vs Ireland,New Zealand,James Neesham ,0,1,0,0,0.00,6,out,1862
+New Zealand Vs Ireland,New Zealand,Mitchell Santner ,0,1,0,0,0.00,7,out,1862
+New Zealand Vs Ireland,New Zealand,Tim Southee ,1,2,0,0,50.00,8,not out ,1862
+New Zealand Vs Ireland,Ireland,Paul Stirling ,37,27,3,1,137.03,1,out,1862
+New Zealand Vs Ireland,Ireland,Andy Balbirnie ,30,25,0,3,120.00,2,out,1862
+New Zealand Vs Ireland,Ireland,Lorcan Tucker ,13,14,0,0,92.85,3,out,1862
+New Zealand Vs Ireland,Ireland,Harry Tector ,2,7,0,0,28.57,4,out,1862
+New Zealand Vs Ireland,Ireland,Gareth Delany ,10,8,2,0,125.00,5,out,1862
+New Zealand Vs Ireland,Ireland,George Dockrell ,23,15,3,0,153.33,6,out,1862
+New Zealand Vs Ireland,Ireland,Curtis Campher ,7,7,1,0,100.00,7,out,1862
+New Zealand Vs Ireland,Ireland,Fionn Hand ,5,3,1,0,166.66,8,out,1862
+New Zealand Vs Ireland,Ireland,Mark Adair ,4,5,0,0,80.00,9,out,1862
+New Zealand Vs Ireland,Ireland,Barry McCarthy ,6,5,0,0,120.00,10,not out ,1862
+New Zealand Vs Ireland,Ireland,Josh Little ,8,4,0,1,200.00,11,not out ,1862
+Australia Vs Afghanistan,Australia,David Warner ,25,18,5,0,138.88,1,out,1864
+Australia Vs Afghanistan,Australia,Cameron Green ,3,2,0,0,150.00,2,out,1864
+Australia Vs Afghanistan,Australia,Mitchell Marsh ,45,30,3,2,150.00,3,out,1864
+Australia Vs Afghanistan,Australia,Steven Smith ,4,4,1,0,100.00,4,out,1864
+Australia Vs Afghanistan,Australia,Marcus Stoinis ,25,21,0,2,119.04,5,out,1864
+Australia Vs Afghanistan,Australia,Glenn Maxwell ,54,32,6,2,168.75,6,not out ,1864
+Australia Vs Afghanistan,Australia,Matthew Wade ,6,8,1,0,75.00,7,out,1864
+Australia Vs Afghanistan,Australia,Pat Cummins ,0,2,0,0,0.00,8,out,1864
+Australia Vs Afghanistan,Australia,Kane Richardson ,1,1,0,0,100.00,9,out,1864
+Australia Vs Afghanistan,Australia,Adam Zampa ,1,1,0,0,100.00,10,not out ,1864
+Australia Vs Afghanistan,Afghanistan,Rahmanullah Gurbaz ,30,17,2,2,176.47,1,out,1864
+Australia Vs Afghanistan,Afghanistan,Usman Ghani ,2,7,0,0,28.57,2,out,1864
+Australia Vs Afghanistan,Afghanistan,Ibrahim Zadran ,26,33,2,0,78.78,3,out,1864
+Australia Vs Afghanistan,Afghanistan,Gulbadin Naib ,39,23,3,2,169.56,4,out,1864
+Australia Vs Afghanistan,Afghanistan,Mohammad Nabi ,1,2,0,0,50.00,5,out,1864
+Australia Vs Afghanistan,Afghanistan,Najibullah Zadran ,0,2,0,0,0.00,6,out,1864
+Australia Vs Afghanistan,Afghanistan,Darwish Rasooli ,15,13,1,0,115.38,7,out,1864
+Australia Vs Afghanistan,Afghanistan,Rashid Khan ,48,23,3,4,208.69,8,not out ,1864
+Australia Vs Afghanistan,Afghanistan,Naveen ul Haq ,0,0,0,0,-,9,not out ,1864
+Sri Lanka Vs England,Sri Lanka,Pathum Nissanka ,67,45,2,5,148.88,1,out,1867
+Sri Lanka Vs England,Sri Lanka,Kusal Mendis ,18,14,1,1,128.57,2,out,1867
+Sri Lanka Vs England,Sri Lanka,Dhananjaya de Silva ,9,11,0,0,81.81,3,out,1867
+Sri Lanka Vs England,Sri Lanka,Charith Asalanka ,8,9,0,0,88.88,4,out,1867
+Sri Lanka Vs England,Sri Lanka,Bhanuka Rajapaksa ,22,22,3,0,100.00,5,out,1867
+Sri Lanka Vs England,Sri Lanka,Dasun Shanaka ,3,8,0,0,37.50,6,out,1867
+Sri Lanka Vs England,Sri Lanka,Wanindu Hasaranga de Silva ,9,9,1,0,100.00,7,out,1867
+Sri Lanka Vs England,Sri Lanka,Chamika Karunaratne ,0,2,0,0,0.00,8,out,1867
+Sri Lanka Vs England,Sri Lanka,Maheesh Theekshana ,0,0,0,0,-,9,not out ,1867
+Sri Lanka Vs England,England,Jos Buttler ,28,23,2,1,121.73,1,out,1867
+Sri Lanka Vs England,England,Alex Hales ,47,30,7,1,156.66,2,out,1867
+Sri Lanka Vs England,England,Ben Stokes ,42,36,2,0,116.66,3,not out ,1867
+Sri Lanka Vs England,England,Harry Brook ,4,5,0,0,80.00,4,out,1867
+Sri Lanka Vs England,England,Liam Livingstone ,4,6,0,0,66.66,5,out,1867
+Sri Lanka Vs England,England,Moeen Ali ,1,5,0,0,20.00,6,out,1867
+Sri Lanka Vs England,England,Sam Curran ,6,11,0,0,54.54,7,out,1867
+Sri Lanka Vs England,England,Chris Woakes ,5,3,1,0,166.66,8,not out ,1867
+Netherlands Vs South Africa,Netherlands,Stephan Myburgh ,37,30,7,0,123.33,1,out,1871
+Netherlands Vs South Africa,Netherlands,Max O Dowd ,29,31,1,1,93.54,2,out,1871
+Netherlands Vs South Africa,Netherlands,Tom Cooper ,35,19,2,2,184.21,3,out,1871
+Netherlands Vs South Africa,Netherlands,Colin Ackermann ,41,26,3,2,157.69,4,not out ,1871
+Netherlands Vs South Africa,Netherlands,Bas de Leede ,1,7,0,0,14.28,5,out,1871
+Netherlands Vs South Africa,Netherlands,Scott Edwards ,12,7,2,0,171.42,6,not out ,1871
+Netherlands Vs South Africa,South Africa,Quinton de Kock ,13,13,1,1,100.00,1,out,1871
+Netherlands Vs South Africa,South Africa,Temba Bavuma ,20,20,2,0,100.00,2,out,1871
+Netherlands Vs South Africa,South Africa,Rilee Rossouw ,25,19,2,0,131.57,3,out,1871
+Netherlands Vs South Africa,South Africa,Aiden Markram ,17,13,2,0,130.76,4,out,1871
+Netherlands Vs South Africa,South Africa,David Miller ,17,17,1,0,100.00,5,out,1871
+Netherlands Vs South Africa,South Africa,Heinrich Klaasen ,21,18,0,1,116.66,6,out,1871
+Netherlands Vs South Africa,South Africa,Wayne Parnell ,0,2,0,0,0.00,7,out,1871
+Netherlands Vs South Africa,South Africa,Keshav Maharaj ,13,12,0,1,108.33,8,out,1871
+Netherlands Vs South Africa,South Africa,Kagiso Rabada ,9,8,0,0,112.50,9,not out ,1871
+Netherlands Vs South Africa,South Africa,Anrich Nortje ,4,1,1,0,400.00,10,not out ,1871
+Bangladesh Vs Pakistan,Bangladesh,Najmul Hossain Shanto ,54,48,7,0,112.50,1,out,1872
+Bangladesh Vs Pakistan,Bangladesh,Litton Das ,10,8,0,1,125.00,2,out,1872
+Bangladesh Vs Pakistan,Bangladesh,Soumya Sarkar ,20,17,1,1,117.64,3,out,1872
+Bangladesh Vs Pakistan,Bangladesh,Shakib Al Hasan ,0,1,0,0,0.00,4,out,1872
+Bangladesh Vs Pakistan,Bangladesh,Afif Hossain ,24,20,3,0,120.00,5,not out ,1872
+Bangladesh Vs Pakistan,Bangladesh,Mosaddek Hossain ,5,11,0,0,45.45,6,out,1872
+Bangladesh Vs Pakistan,Bangladesh,Nurul Hasan ,0,3,0,0,0.00,7,out,1872
+Bangladesh Vs Pakistan,Bangladesh,Taskin Ahmed ,1,5,0,0,20.00,8,out,1872
+Bangladesh Vs Pakistan,Bangladesh,Nasum Ahmed ,7,6,1,0,116.66,9,out,1872
+Bangladesh Vs Pakistan,Bangladesh,Mustafizur Rahman ,0,1,0,0,0.00,10,not out ,1872
+Bangladesh Vs Pakistan,Pakistan,Mohammad Rizwan ,32,32,2,1,100.00,1,out,1872
+Bangladesh Vs Pakistan,Pakistan,Babar Azam ,25,33,2,0,75.75,2,out,1872
+Bangladesh Vs Pakistan,Pakistan,Mohammad Nawaz ,4,11,0,0,36.36,3,out,1872
+Bangladesh Vs Pakistan,Pakistan,Mohammad Haris ,31,18,1,2,172.22,4,out,1872
+Bangladesh Vs Pakistan,Pakistan,Shan Masood ,24,14,2,0,171.42,5,not out ,1872
+Bangladesh Vs Pakistan,Pakistan,Iftikhar Ahmed ,1,3,0,0,33.33,6,out,1872
+Bangladesh Vs Pakistan,Pakistan,Shadab Khan ,0,0,0,0,-,7,not out ,1872
+India Vs Zimbabwe,India,KL Rahul ,51,35,3,3,145.71,1,out,1873
+India Vs Zimbabwe,India,Rohit Sharma ,15,13,2,0,115.38,2,out,1873
+India Vs Zimbabwe,India,Virat Kohli ,26,25,2,0,104.00,3,out,1873
+India Vs Zimbabwe,India,Suryakumar Yadav ,61,25,6,4,244.00,4,not out ,1873
+India Vs Zimbabwe,India,Rishabh Pant ,3,5,0,0,60.00,5,out,1873
+India Vs Zimbabwe,India,Hardik Pandya ,18,18,2,0,100.00,6,out,1873
+India Vs Zimbabwe,India,Axar Patel ,0,0,0,0,-,7,not out ,1873
+India Vs Zimbabwe,Zimbabwe,Wessly Madhevere ,0,1,0,0,0.00,1,out,1873
+India Vs Zimbabwe,Zimbabwe,Craig Ervine ,13,15,2,0,86.66,2,out,1873
+India Vs Zimbabwe,Zimbabwe,Regis Chakabva ,0,6,0,0,0.00,3,out,1873
+India Vs Zimbabwe,Zimbabwe,Sean Williams ,11,18,0,1,61.11,4,out,1873
+India Vs Zimbabwe,Zimbabwe,Sikandar Raza ,34,24,3,0,141.66,5,out,1873
+India Vs Zimbabwe,Zimbabwe,Tony Munyonga ,5,4,1,0,125.00,6,out,1873
+India Vs Zimbabwe,Zimbabwe,Ryan Burl ,35,22,5,1,159.09,7,out,1873
+India Vs Zimbabwe,Zimbabwe,Wellington Masakadza ,1,7,0,0,14.28,8,out,1873
+India Vs Zimbabwe,Zimbabwe,Richard Ngarava ,1,2,0,0,50.00,9,out,1873
+India Vs Zimbabwe,Zimbabwe,Tendai Chatara ,4,4,1,0,100.00,10,out,1873
+India Vs Zimbabwe,Zimbabwe,Blessing Muzarabani ,0,2,0,0,0.00,11,not out ,1873
+New Zealand Vs Pakistan,New Zealand,Finn Allen ,4,3,1,0,133.33,1,out,1877
+New Zealand Vs Pakistan,New Zealand,Devon Conway ,21,20,3,0,105.00,2,out,1877
+New Zealand Vs Pakistan,New Zealand,Kane Williamson ,46,42,1,1,109.52,3,out,1877
+New Zealand Vs Pakistan,New Zealand,Glenn Phillips ,6,8,1,0,75.00,4,out,1877
+New Zealand Vs Pakistan,New Zealand,Daryl Mitchell ,53,35,3,1,151.42,5,not out ,1877
+New Zealand Vs Pakistan,New Zealand,James Neesham ,16,12,1,0,133.33,6,not out ,1877
+New Zealand Vs Pakistan,Pakistan,Mohammad Rizwan ,57,43,5,0,132.55,1,out,1877
+New Zealand Vs Pakistan,Pakistan,Babar Azam ,53,42,7,0,126.19,2,out,1877
+New Zealand Vs Pakistan,Pakistan,Mohammad Haris ,30,26,2,1,115.38,3,out,1877
+New Zealand Vs Pakistan,Pakistan,Shan Masood ,3,4,0,0,75.00,4,not out ,1877
+New Zealand Vs Pakistan,Pakistan,Iftikhar Ahmed ,0,0,0,0,-,5,not out ,1877
+India Vs England,India,KL Rahul ,5,5,1,0,100.00,1,out,1878
+India Vs England,India,Rohit Sharma ,27,28,4,0,96.42,2,out,1878
+India Vs England,India,Virat Kohli ,50,40,4,1,125.00,3,out,1878
+India Vs England,India,Suryakumar Yadav ,14,10,1,1,140.00,4,out,1878
+India Vs England,India,Hardik Pandya ,63,33,4,5,190.90,5,out,1878
+India Vs England,India,Rishabh Pant ,6,4,1,0,150.00,6,out,1878
+India Vs England,India,Ravichandran Ashwin ,0,0,0,0,-,7,not out ,1878
+India Vs England,England,Jos Buttler ,80,49,9,3,163.26,1,not out ,1878
+India Vs England,England,Alex Hales ,86,47,4,7,182.97,2,not out ,1878
+Pakistan Vs England,Pakistan,Mohammad Rizwan ,15,14,0,1,107.14,1,out,1879
+Pakistan Vs England,Pakistan,Babar Azam ,32,28,2,0,114.28,2,out,1879
+Pakistan Vs England,Pakistan,Mohammad Haris ,8,12,1,0,66.66,3,out,1879
+Pakistan Vs England,Pakistan,Shan Masood ,38,28,2,1,135.71,4,out,1879
+Pakistan Vs England,Pakistan,Iftikhar Ahmed ,0,6,0,0,0.00,5,out,1879
+Pakistan Vs England,Pakistan,Shadab Khan ,20,14,2,0,142.85,6,out,1879
+Pakistan Vs England,Pakistan,Mohammad Nawaz ,5,7,0,0,71.42,7,out,1879
+Pakistan Vs England,Pakistan,Mohammad Wasim ,4,8,0,0,50.00,8,out,1879
+Pakistan Vs England,Pakistan,Shaheen Shah Afridi ,5,3,1,0,166.66,9,not out ,1879
+Pakistan Vs England,Pakistan,Haris Rauf ,1,1,0,0,100.00,10,not out ,1879
+Pakistan Vs England,England,Jos Buttler ,26,17,3,1,152.94,1,out,1879
+Pakistan Vs England,England,Alex Hales ,1,2,0,0,50.00,2,out,1879
+Pakistan Vs England,England,Phil Salt ,10,9,2,0,111.11,3,out,1879
+Pakistan Vs England,England,Ben Stokes ,52,49,5,1,106.12,4,not out ,1879
+Pakistan Vs England,England,Harry Brook ,20,23,1,0,86.95,5,out,1879
+Pakistan Vs England,England,Moeen Ali ,19,13,3,0,146.15,6,out,1879
+Pakistan Vs England,England,Liam Livingstone ,1,1,0,0,100.00,7,not out ,1879
